@@ -12,5 +12,8 @@ This is a Basic Flutter Application Project named as "I am Rich". It's basically
 <img src="/repassets/images/iamrichapp_5.jpg")
      </image>
 </p>
-<p align="center"><b>(Screenshots of I am Rich App launched in App Store 2008)<b></p>
-
+<p align="center"><b>(Screenshots of "I am Rich App" launched in App Store 2008)<b></p>
+This project is design to build the application in Flutter SDK framework.
+     
+     
+     
