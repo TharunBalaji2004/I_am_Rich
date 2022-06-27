@@ -34,3 +34,9 @@ Email: [tharunbalajir.cse2021@citchennai.net](https://github.com/TharunBalaji200
 LinkedIn: https://www.linkedin.com/in/tharun-balaji-50328ab6
 
 Project Link: https://github.com/TharunBalaji2004/I_am_Rich
+
+
+<p>
+     <img src="/repassets/images/icon_256x256.png"></img>
+[(Go to Top)](https://github.com/TharunBalaji2004/I_am_Rich/blob/main/README.md#about-the-project)
+</p>
