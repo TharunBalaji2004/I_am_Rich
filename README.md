@@ -12,6 +12,6 @@ This is a Basic Flutter Application Project named as "I am Rich". It's basically
 <img src="/repassets/images/iamrichapp_5.jpg")
      </image>
 </p>
-<p align = "center">
+
 **Screenshots**
-</p>
+
