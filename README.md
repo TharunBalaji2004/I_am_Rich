@@ -18,4 +18,7 @@ This is a Basic Flutter Application Project named as "I am Rich". It's basically
 </p>
      
 # Built With      
-     
+The project application is been developed using:
+- Dart
+- Objective C
+- Flutter SDK
