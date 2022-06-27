@@ -24,5 +24,8 @@ The project application is been developed using:
 - Flutter SDK
 
 ## License
-Distributed and Monitored under the GNU General Public License. Checkout [LICENSE.txt](https://github.com/TharunBalaji2004/I_am_Rich/blob/667d40798aec553ec49bf3a060e3ce76818f63ae/LICENSE)
+Distributed and Monitored under the GNU General Public License. Checkout [LICENSE.txt](https://github.com/TharunBalaji2004/I_am_Rich/blob/667d40798aec553ec49bf3a060e3ce76818f63ae/LICENSE) for more details.
+
+## Contact
+R.Tharun Balaji - Computer Science and Engineering Student at Chennai Institute of Technology
 
