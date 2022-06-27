@@ -39,6 +39,5 @@ Project Link: https://github.com/TharunBalaji2004/I_am_Rich
 
 
 <p align="right">
-     <a href ="#about-the-project"><img src="/repassets/images/BacktoTop.png"></img></a>
-     <b>Go To Top</b>
+     <a href ="#about-the-project"><img src="/repassets/images/BacktoTop.PNG"></img></a>
 </p>
