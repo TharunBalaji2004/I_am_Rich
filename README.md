@@ -13,5 +13,5 @@ This is a Basic Flutter Application Project named as "I am Rich". It's basically
      </image>
 </p>
 
-**Screenshots**
+                                                            **Screenshots**
 
