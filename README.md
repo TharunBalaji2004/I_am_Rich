@@ -8,5 +8,5 @@ This is a Basic Flutter Application Project named as "I am Rich". It's basically
 
 <p align = "center">
 <img src="/repassets/images/iamrichapp.jpg")
-<img src="/repassets/images/iamrichapp_2.jpg")
+<img src="/repassets/images/iamrichapp_3.jpg")
 </p>
