@@ -31,4 +31,6 @@ R.Tharun Balaji - Computer Science and Engineering Student at Chennai Institute 
 
 Email: [tharunbalajir.cse2021@citchennai.net](https://github.com/TharunBalaji2004/)
 
-LinkedIn: https://www.linkedin.com/in/tharun-balaji-50328ab6/
+LinkedIn: https://www.linkedin.com/in/tharun-balaji-50328ab6
+
+Project Link: https://github.com/TharunBalaji2004/I_am_Rich
