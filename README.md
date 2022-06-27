@@ -37,6 +37,6 @@ Project Link: https://github.com/TharunBalaji2004/I_am_Rich
 
 
 <p align="right">
-     <a href ="#about-the-project"><img src="/repassets/images/icon_20.jpg"></img></a>
+     <a href ="#/repassets/images/AndroidFlutteriOS_400x167.png)"><img src="/repassets/images/icon_20.jpg"></img></a>
      <b>Go To Top</b>
 </p>
