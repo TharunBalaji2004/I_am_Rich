@@ -3,4 +3,5 @@
 </p>
 
 
-# Getting Started
+# About the Project
+This is a Basic Flutter Application Project named as "I am Rich".
