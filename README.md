@@ -38,5 +38,5 @@ Project Link: https://github.com/TharunBalaji2004/I_am_Rich
 
 <p>
      <img src="/repassets/images/icon_256x256.png"></img>
-[Go to Top](https://github.com/TharunBalaji2004/I_am_Rich/blob/main/README.md#about-the-project/)
+[Go to Top](#about-the-project)
 </p>
