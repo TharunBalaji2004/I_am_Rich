@@ -24,5 +24,5 @@ The project application is been developed using:
 - Flutter SDK
 
 ## License
-Distributed and Monitored under the GNU General Public License. Checkout [LICENSE.txt](docs/LICENSE.md)
+Distributed and Monitored under the GNU General Public License. Checkout [LICENSE.txt]([docs/LICENSE.md](https://github.com/TharunBalaji2004/I_am_Rich/blob/667d40798aec553ec49bf3a060e3ce76818f63ae/LICENSE)
 
