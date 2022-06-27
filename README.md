@@ -1,6 +1,3 @@
-<p align = "center">
-<img src="/repassets/images/AndroidFlutteriOS_400x167.png")
-</p>
 
 
 # About the Project
@@ -18,6 +15,11 @@ This is a Basic Flutter Application Project named as "I am Rich". It's basically
 </p>
      
 ## Built With      
+
+<p align = "center">
+<img src="/repassets/images/AndroidFlutteriOS_400x167.png")
+</p>
+
 The project application is been developed using:
 - Dart
 - Objective C
@@ -37,6 +39,6 @@ Project Link: https://github.com/TharunBalaji2004/I_am_Rich
 
 
 <p align="right">
-     <a href ="/repassets/images/AndroidFlutteriOS_400x167.png)"><img src="/repassets/images/icon_20.jpg"></img></a>
+     <a href ="#about-the-project"><img src="/repassets/images/icon_20.jpg"></img></a>
      <b>Go To Top</b>
 </p>
