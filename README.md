@@ -28,4 +28,5 @@ Distributed and Monitored under the **GNU** General Public License(v 3.0). Check
 
 ## Contact
 R.Tharun Balaji - Computer Science and Engineering Student at Chennai Institute of Technology
-
+Email: [tharunbalajir.cse2021@citchennai.net](https://github.com/TharunBalaji2004/)
+LinkedIn: https://www.linkedin.com/in/tharun-balaji-50328ab6/
