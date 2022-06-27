@@ -23,5 +23,6 @@ The project application is been developed using:
 - Objective C
 - Flutter SDK
 
-
+## License
+Distributed and Monitored under the GNU General Public License. Checkout [LICENSE.txt](docs/LICENSE.txt)
 
