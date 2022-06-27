@@ -37,6 +37,6 @@ Project Link: https://github.com/TharunBalaji2004/I_am_Rich
 
 
 <p align="right">
-     <img src="/repassets/images/icon_20.jpg"></img>
+     [<img src="/repassets/images/icon_20.jpg"></img>]("www.google.com")
      <b>Go To Top</b>
 </p>
