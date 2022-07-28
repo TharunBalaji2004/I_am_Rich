@@ -20,7 +20,7 @@ This is a Basic Flutter Application Project named "I am Rich". It's basically an
 <img src="/repassets/images/AndroidFlutteriOS_400x167.png")
 </p>
 
-The project application is been developed using:
+The project application has been developed using:
 - Dart
 - Objective C
 - Flutter SDK
